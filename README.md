@@ -1,4 +1,4 @@
-<b><h1>This program is my solution to the following challenge problem:</h1></b>
+<b><h1>Challenge problem:</h1></b>
 
 <b>Write a program using Python that performs the following:</b>    
   
